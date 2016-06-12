@@ -1,0 +1,17 @@
+.Hangman {
+	font-size: 50px;
+	font-color: white;
+}
+
+.keys{
+	font-size: 30px;
+	font-color: white;
+}
+
+.wins{
+	font-size: 30px;
+	font-color: white;
+}
+.container{
+	background-color: #e65100;
+}
